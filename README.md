@@ -21,6 +21,8 @@ A tricky problem you solved and how
 A design decision and why you made it
 Something you'd do differently next time
 <br>
+<br>
+<br>
 <img width="1798" height="904" alt="image" src="https://github.com/user-attachments/assets/ac140806-6600-442b-967c-032cfed81413" />
 <br>
 <img width="1788" height="905" alt="image" src="https://github.com/user-attachments/assets/ca7f90c8-bcc6-485f-b880-5f3e72bf1ade" />
