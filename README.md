@@ -9,6 +9,7 @@ This was resume my portfolio webpage between in 2025 & 2026.
 Over time I have been creating mor sophisticated portfolio webpages, this was one of my earlier ones, but a skillset is built over time with successive projects building on skills. 
 
 **Tech Stack**
+<br>
 Frontend: React, React Router, CSS
 Backend: Spring Boot / Node / none
 
