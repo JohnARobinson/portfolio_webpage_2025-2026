@@ -17,9 +17,7 @@ Backend: Spring Boot / Node / none
 
 **What I Learned / Challenges**
 <br>
-A tricky problem you solved and how
-A design decision and why you made it
-Something you'd do differently next time
+Graphic Design still a large issue. Unhappy with how some pages look. Contact page not fully functional, Most elements are hardcoded. Need to fix in future.
 <br>
 <br>
 <br>
